@@ -1,0 +1,44 @@
+formaLista:
+  - circuloLista:
+    - circulo_1:
+        cor: "Âmbar-bastardo"
+        raio: 2
+    - circulo_2:
+        cor: "Pescoço de Marreco"
+        raio: 5
+    - circulo_3:
+        cor: "Drunk-Tank Pink"
+        raio: 3
+    - circulo_4:
+        cor: "Falu"
+        raio: 4
+    - circulo_5:
+        cor: "Gingerline"
+        raio: 6
+    - circulo_6:
+      - cor: "Gelo"
+      - raio: 2
+    - circulo_7:
+      - cor: "Turquesa"
+      - raio: 5
+  - quadradoLista:
+    - quadrado_1:
+        cor: "Esmeralda"
+        lado: 12
+    - quadrado_2:
+        cor: "Carmim"
+        lado: 10
+    - quadrado_3:
+        cor: "Salmão"
+        lado: 8
+    - quadrado_4:
+        cor: "Turquesa"
+        lado: 6
+    - quadrado_5:
+        cor: "Lilás"
+        lado: 4
+  - trianguloLista:
+    - triangulo_1:
+      - cor: "Salmao"
+      - altura: 10
+      - largura: 20
